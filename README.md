@@ -12,7 +12,6 @@ This application was built as .Net Core application in order to demonstrate the 
 - Visual Studio 2022
 - PostMan
 - Docker
-- XUnit
 
 **Used Nuget Packages**
 -------------
